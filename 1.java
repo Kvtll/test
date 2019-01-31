@@ -3,7 +3,7 @@ package project1;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
-
+//使用github创建java文件
 public class ListDemo {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
